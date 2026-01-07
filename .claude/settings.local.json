@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm test:*)",
+      "Skill(audit)",
+      "Bash(npm audit:*)",
+      "mcp__playwright"
+    ]
+  }
+}
